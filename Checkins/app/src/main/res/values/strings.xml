@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Checkins</string>
+    <string name="app_categories">Categorias</string>
+    <string name="bCheckin">CHECK-IN</string>
+    <string name="bLike">LIKE</string>
+    <string name="app_likes">Favoritos</string>
+    <string name="app_perfil_amigos">amigos</string>
+    <string name="app_perfil_tips">tips</string>
+    <string name="app_perfil_photos">fotos</string>
+    <string name="app_perfil_checkins">checkins</string>
+    <string name="Rights">Nahuel Perez Novoa © Derechos Reservados</string>
+    <string name="app_pantalla_principal_categories">Sin categoría</string>
+</resources>
